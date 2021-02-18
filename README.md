@@ -1,7 +1,5 @@
 # HelloWorld--1
-图片+连接
-
-[![GitHub release](https://img.shields.io/badge/release-v4.17.0-blue.svg)](https://github.com/gongminmin/KlayGE/releases/latest)
+图片+连接：[![GitHub release](https://img.shields.io/badge/release-v4.17.0-blue.svg)](https://github.com/gongminmin/KlayGE/releases/latest)
 
 第一个github存储库
 
